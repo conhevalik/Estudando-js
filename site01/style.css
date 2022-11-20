@@ -19,4 +19,19 @@ footer{
     text-align: center;
     font-style: italic;
 }
+img { 
+    position: relative;
+    width: 700px;
+    height: 400px;
+    bottom: 180px;
+    right: 90px;
+    
+    
+}
 
+div{
+    text-align: center;
+    padding: 0px;
+    width: auto;
+    height: 100px;
+}
